@@ -21,3 +21,7 @@ add an upload for dropify by JeremyFagis
     });
 
 ```
+
+
+## Demo Screenshot
+![dropify_custom demo ccreenshot](https://raw.githubusercontent.com/suifengtec/dropify_custom/master/screenshot.jpg)
